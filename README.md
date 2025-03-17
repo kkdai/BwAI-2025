@@ -7,8 +7,12 @@ Google Build with AI workshop 2024 Taiwan material and links
   - [BwAI-2024](https://github.com/kkdai/BwAI-2024)
 - [Google Vertex AI](https://console.cloud.google.com/vertex-ai)
 - [Enable Vertex AI - API in your project](https://cloud.google.com/vertex-ai/docs/featurestore/setup?hl=zh-cn)
+
 - [Intro to Gemini 2.0 Flash - Colab](https://colab.research.google.com/github/GoogleCloudPlatform/generative-ai/blob/main/gemini/getting-started/intro_gemini_2_0_flash.ipynb)
 - [[Python] 在 LangChain 中將 Gemini 換成使用 Vertex AI](https://www.evanlin.com/til-gemini-vertex-ai/)
+![Google Chrome 2025-03-17 22 36 07](https://github.com/user-attachments/assets/c6bf8065-d948-40c8-a795-9ece60422bc7)
+
+- 
 
 
 
