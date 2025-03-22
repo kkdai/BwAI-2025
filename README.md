@@ -16,9 +16,10 @@ Google Build with AI workshop 2024 Taiwan material and links
 - [[Google Cloud] 如何在 GCP Cloud Run 上面透過 LangChain 取得 YouTube 的相關資訊](https://www.evanlin.com/langchain-youtube-gcp/)
 <img width="600" alt="Google Chrome 2025-03-20 14 24 57" src="https://github.com/user-attachments/assets/1f94ea16-1814-4e85-a04b-e3fa6895ec85" />
 
+- [AI Engineers Starter Pack Vol.3](https://www.aiengineerpack.com/?success=1)
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/5bc31c86-f6c1-44cd-a5d0-67893242edca" />
 
 
-- 
 
 
 
