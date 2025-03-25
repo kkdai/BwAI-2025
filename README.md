@@ -18,6 +18,7 @@ Google Build with AI workshop 2024 Taiwan material and links
 - [[Python] 在 LangChain 中將 Gemini 換成使用 Vertex AI](https://www.evanlin.com/til-gemini-vertex-ai/)
 ![Google Chrome 2025-03-17 22 36 07](https://github.com/user-attachments/assets/c6bf8065-d948-40c8-a795-9ece60422bc7)
     - [LINE Developer Console](https://developers.line.biz/console/)
+    - [LINE OA Manager](https://manager.line.biz)
 
 - [[Google Cloud] 如何在 GCP Cloud Run 上面透過 LangChain 取得 YouTube 的相關資訊](https://www.evanlin.com/langchain-youtube-gcp/)
 <img width="600" alt="Google Chrome 2025-03-20 14 24 57" src="https://github.com/user-attachments/assets/1f94ea16-1814-4e85-a04b-e3fa6895ec85" />
